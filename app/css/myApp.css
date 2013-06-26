@@ -1,0 +1,51 @@
+/* app css stylesheet */
+
+body {
+	font:12px arial,sans-serif;
+}
+
+.actions-button {
+    margin-left: -40px;
+    position: absolute;
+    width: 1000px;
+    z-index: -1;
+}
+
+tr .actions-button i {
+    display: none;
+    position: relative;
+}
+
+tr:hover .actions-button i, .actions-button:hover i {
+    display: inline-block;
+}
+
+.sortable{
+    cursor: pointer;
+}
+
+.sortable:hover{
+    background-color: #F0F8FF;
+}
+
+.actions-button i.add {
+    color: #00c000;
+    cursor: pointer;
+    left: 4px;
+}
+
+.actions-button i.handle {
+    color: #00c0c0;
+    cursor: move;
+    left: 6px;
+}
+
+.actions-button i.remove {
+    color: #ff0000;
+    cursor: pointer;
+    left: 954px;
+}
+
+.icon-plus {
+    color: #CBFBBC;
+}
