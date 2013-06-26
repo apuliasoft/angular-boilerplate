@@ -2,6 +2,6 @@
 
 /* Directives */
 
-angular.module('angularBoilerplate.directives', [
-    'angularBoilerplate.directives.example'
+angular.module('app.directives', [
+    'app.directives.example'
 ]);

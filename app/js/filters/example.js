@@ -1,4 +1,4 @@
-angular.module('angularBoilerplate.filters.example', []).filter('example', function(){
+angular.module('app.filters.example', []).filter('example', function(){
     return function(){
 
     }

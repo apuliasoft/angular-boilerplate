@@ -3,7 +3,7 @@
 /* jasmine specs for directives go here */
 
 describe('directives', function() {
-  beforeEach(module('angularBoilerplate.directives'));
+  beforeEach(module('app.directives'));
 
     it('should ....', inject(function() {
         //spec body

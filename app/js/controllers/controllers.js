@@ -2,6 +2,6 @@
 
 /* Controllers */
 
-angular.module('angularBoilerplate.controllers', [
-    'angularBoilerplate.controllers.index'
+angular.module('app.controllers', [
+    'app.controllers.index'
 ]);

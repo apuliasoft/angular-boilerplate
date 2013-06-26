@@ -3,7 +3,7 @@
 /* jasmine specs for controllers go here */
 
 describe('controllers', function(){
-  beforeEach(module('angularBoilerplate.controllers'));
+  beforeEach(module('app.controllers'));
 
 
   it('should ....', inject(function() {

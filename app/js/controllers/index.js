@@ -1,4 +1,4 @@
-angular.module('angularBoilerplate.controllers.index', []).controller('Index', [
+angular.module('app.controllers.index', []).controller('Index', [
     function () {
 
     }]);

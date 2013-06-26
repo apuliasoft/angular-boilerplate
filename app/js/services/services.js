@@ -2,6 +2,6 @@
 
 /* services */
 
-angular.module('angularBoilerplate.services', [
-    'angularBoilerplate.services.example'
+angular.module('app.services', [
+    'app.services.example'
 ]);

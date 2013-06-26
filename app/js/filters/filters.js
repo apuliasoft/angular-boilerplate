@@ -2,6 +2,6 @@
 
 /* Filters */
 
-angular.module('angularBoilerplate.filters', [
-    'angularBoilerplate.filters.example'
+angular.module('app.filters', [
+    'app.filters.example'
 ]);

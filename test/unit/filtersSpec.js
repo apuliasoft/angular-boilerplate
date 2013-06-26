@@ -3,7 +3,7 @@
 /* jasmine specs for filters go here */
 
 describe('filter', function() {
-  beforeEach(module('angularBoilerplate.filters'));
+  beforeEach(module('app.filters'));
 
     it('should ....', inject(function() {
         //spec body

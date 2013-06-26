@@ -3,7 +3,7 @@
 /* jasmine specs for services go here */
 
 describe('service', function() {
-  beforeEach(module('angularBoilerplate.services'));
+  beforeEach(module('app.services'));
 
     it('should ....', inject(function() {
         //spec body

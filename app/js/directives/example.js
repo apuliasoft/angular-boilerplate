@@ -1,4 +1,4 @@
-angular.module('angularBoilerplate.directives.example', []).directive('ngExample', [
+angular.module('app.directives.example', []).directive('ngExample', [
     function() {
         return function() {
 
