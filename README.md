@@ -74,7 +74,7 @@ What follows is a brief descritpion of the most important entries.
 
 - `app/` - The main application folder where all the app logic and files go.
 - `js/` - In this folder goes all the javascript logic of the angular app
- - `controllers/` - In this folder there is a main `controller.js` file and all the controllers of the app (possibly split in subfolders)
+ - `controllers/` - In this folder there is a main `controllers.js` file and all the controllers of the app (possibly split in subfolders)
  - `directives/` - In this folder there is a main `directives.js` file and all the directives of the app (possibly split in subfolders)
  - `filters/` - In this folder there is a main `filters.js` file and all the filters of the app (possibly split in subfolders)
  - `services/` - In this folder there is a main `services.js` file and all the services of the app (possibly split in subfolders)
