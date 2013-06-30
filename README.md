@@ -92,3 +92,5 @@ bower install packagename --save-dev
 In this way the package will be installed in the `lib` folder and the `bower.json` file will be update
 with the info about the new package, so a future `bower install` command will also install the new package.
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/apuliasoft/angular-boilerplate/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
