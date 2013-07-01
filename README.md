@@ -2,6 +2,9 @@
 
 A ready-to-go simple boilerplate to start a fresh new [AngularJS](http://angularjs.org) project.
 
+Visit [this link](http://www.apuliasoft.com/blog/angularjs-boilerplate-nuova-applicazione/) for an article (in Italian)
+about the structure of this boilerplate.
+
 ***
 
 ## Quick start
